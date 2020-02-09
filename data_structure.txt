@@ -1,0 +1,13 @@
+Data Structure are:
+Array:It is a collection of multiple items of same type stored at contiguous locations.  
+Linked list:It is bascially a linear data structure in which elements are not stored at 
+contiguous memory locations.Elements in the linked list are linked using pointers.
+Stack:It is a linear data structure which follows a particular order(i.e LIFO(last in first
+out) or FILO(first in last out)). 
+Queue:It is also a linear data structure which follows a particular order(i.e FIFO(first in 
+first order))
+Binary Search Tree:It is node based binary tree data structure in which left subtree of node contain only
+nodes with keys lesser than the node's key and right subtree of a node contains only keys greater than the nodes's key.  
+Graph:It is  non-linear data structure consists of a finite set of vertices and set of edges which connect a pair of 
+nodes.
+Binary Tree: A tree whose elements have at most 2 children(name them left and right child).
