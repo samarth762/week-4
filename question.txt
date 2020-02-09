@@ -1,0 +1,14 @@
+  Binary tree-1   
+Depth First Traversals:
+(a) Inorder traversals :DBEGHACF
+(b) Preorder traversals :ABDEGHCF
+(c) Postorder traversals :DGHEBFCA
+First or Level order Traversals:ABCDEFGH
+Binary tree is not complete.
+   Binary tree-2
+Depth First Traversals:
+(a) Inorder traversals :HDBEACFG
+(b) Preorder traversals :ABDHECFG
+(c) Postorder traversals HDEBFGPA
+First or Level order Traversals:ABCDEFGH
+Binary  tree is not complete.
